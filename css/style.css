@@ -1034,7 +1034,7 @@ p.line::after {
     width: 19%;
   }
   .width-90 {
-    width: 90%;
+    width: 90% !important;
   }
 
   .w-47 {
@@ -1043,7 +1043,9 @@ p.line::after {
   .f-42 {
     font-size: 2.625rem;
   }
-
+.width-80{
+  width: 80%;
+}
   .p-25 {
     padding: 35px;
   }
@@ -1073,10 +1075,18 @@ p.line::after {
     padding-right: 3rem !important;
     padding-left: 2rem !important;
   }
-
+.ga-0{
+  gap: 0;
+}
   .mt-16 {
     margin-top: 1rem !important;
   }
+  .lay-out{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+}
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px) {
