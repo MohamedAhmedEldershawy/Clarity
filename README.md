@@ -16,6 +16,14 @@ The project focuses on converting a provided UI design into a responsive and str
 https://mohamedahmedeldershawy.github.io/Clarity/
 
 ---
+## 🎥 Project Demo Video
+
+
+
+https://github.com/user-attachments/assets/91e738e5-9edf-4a36-8ed8-953e1904b09b
+
+
+---
 
 ## 📌 Overview
 
