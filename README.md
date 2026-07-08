@@ -13,7 +13,7 @@ The project focuses on converting a provided UI design into a responsive and str
 
 ## 🔗 Live Demo
 
-Add your live demo link here
+https://mohamedahmedeldershawy.github.io/Clarity/
 
 ---
 
@@ -71,7 +71,7 @@ The main challenge was learning how to customize Bootstrap styles and combine th
 Clone the project:
 
 ```bash
-git clone Add-your-repository-link
+git clone https://github.com/MohamedAhmedEldershawy/Clarity
 ```
 
 Open:
